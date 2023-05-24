@@ -1,6 +1,4 @@
-// CPCS-223 Project
-// Name: Zinab Alsaggaf
-// ID: 2006531
+
 
 // fill array with random numbers from 0 to 100
 function Fill(size) {
